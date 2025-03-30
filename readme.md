@@ -1,6 +1,6 @@
 <p align="center"><img src="https://avatars.githubusercontent.com/u/133284637?s=66&v=4"></p>
 
-<h3 align="center">Hola, I'm Juno Bủh 🎭</h3>
+<h3 align="center">Hello, I'm Juno Bủh 🎭</h3>
 
 ---
  

@@ -6,7 +6,7 @@
  
 <h4 align="left">🚀 ReVanced Builder</h4>
 
-|       🥗 YouTube *No Ads*       |      🥙 YT-Music *No Ads*      |      🌭 Google Photos *Unlimited*      |      🥙 Spotify *Premium*      |
+|       🥗 YouTube *No Ads*       |      🥙 YT-Music *No Ads*      |      🌭 Google Photos *Unlimited*      |      🤖 Spotify *Premium*      |
 | :-----------------------------: | :-----------------------------: | :-------------------------------------------: | :-----------------------------: |
 | Không Có Quảng Cáo, Ẩn Những Thứ Không Mong Muốn, Tuỳ Biến Giao Diện | Không Có Quảng Cáo, Ẩn Những Thứ Không Mong Muốn, Tuỳ Biến Giao Diện | Sao Lưu Ảnh & Video Chất Lượng Gốc Không Giới Hạn Dung Lượng Lưu Trữ | Mở Khoá Một Số Tính Năng Premium, Không Có Quảng Cáo |
 

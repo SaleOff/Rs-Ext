@@ -8,7 +8,7 @@
 
 |       🥗 YouTube *NoAds*       |      🤖 YT-Music *NoAds*      |
 | :-----------------------------: | :-----------------------------: |
-| YouTube ReVanced là phiên bản mod của YouTube, mang lại trải nghiệm xem video không quảng cáo, cho phép ẩn các nội dung không mong muốn, tùy biến giao diện theo sở thích và tích hợp nhiều tính năng nâng cao hơn thế nữa | YT-Music ReVanced là phiên bản tùy chỉnh giúp bạn mở khóa một số tính năng Premium, bao gồm nghe nhạc không quảng cáo, bỏ qua bài hát không giới hạn, và tận hưởng trải nghiệm nghe nhạc liên tục, thoải mái mà không bị gián đoạn |
+| YouTube ReVanced là phiên bản mod của YouTube, mang lại trải nghiệm xem video không quảng cáo, cho phép ẩn các nội dung không mong muốn, tùy biến giao diện theo sở thích và tích hợp nhiều tính năng nâng cao | YT-Music ReVanced là phiên bản tùy chỉnh giúp bạn mở khóa một số tính năng Premium, bao gồm nghe nhạc không quảng cáo, bỏ qua bài hát không giới hạn, và tận hưởng trải nghiệm nghe nhạc liên tục, thoải mái mà không bị gián đoạn |
 
 <h4 align="right">Build By Juno Bủh 🍤</h4>
 
